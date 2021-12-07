@@ -1,2 +1,2 @@
-# Secutity_labs
-Repository for storing Secutity labs 
+# Security_labs
+Repository for storing Security labs 
