@@ -8,6 +8,6 @@ Repository for storing Security labs
 
 **Лаби в групах:**
 
-Звіт до лабораторої 4:
+Звіт до лабораторої 4:(в процесі) https://docs.google.com/document/d/1GfRPKyiK30hxjgUUerezHZAR2ZEPUsUAU04ygc4m33w/edit?usp=sharing
 
 Звіт до лабораторної 8: (в процесі) https://docs.google.com/document/d/1xW-8qzHZFk3E8aMqtgCqjN77cl2Dju6PDY3i_MqOAA8/edit?usp=sharing
