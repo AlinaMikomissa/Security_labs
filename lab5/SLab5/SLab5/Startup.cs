@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SLab5.Infrastructure;
+using SLab5.Services;
 
 namespace SLab5
 {
@@ -28,6 +31,11 @@ namespace SLab5
         {
             services.AddControllers();
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo { Title = "SLab5", Version = "v1" }); });
+            
+            services.AddDbContext<SLabDBContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("DBConnectionString")));
+
+            services.AddTransient<IIdentityService, IdentityService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

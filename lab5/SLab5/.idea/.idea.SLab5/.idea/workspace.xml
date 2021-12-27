@@ -6,56 +6,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afacaef-7591-45f5-8d9d-304d77cdec64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/SLab5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/staticwebassets/SLab5.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/staticwebassets/SLab5.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/DTO/SignInDTO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/Entity/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/EntityConfigurations/UserEntityConfiguration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/Infrastructure/SLabDBContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/Services/IIdentityService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/Services/IdentityService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/SLab5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/SLab5.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/ref/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/ref/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +45,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SLab5/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Services/IIdentityService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Services/IdentityService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/DTO/SignInDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Infrastructure/SLabDBContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/EntityConfigurations/UserEntityConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Entity/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SLab5/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22rlUXArNsNE0nJInld0MafbNIl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -77,6 +80,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.SLab5">
@@ -122,6 +126,7 @@
       <workItem from="1640603616810" duration="991000" />
       <workItem from="1640605033810" duration="403000" />
       <workItem from="1640607010612" duration="179000" />
+      <workItem from="1640607641291" duration="5340000" />
     </task>
     <servers />
   </component>

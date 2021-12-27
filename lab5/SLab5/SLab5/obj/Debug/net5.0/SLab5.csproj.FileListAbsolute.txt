@@ -26,3 +26,15 @@
 /Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/obj/Debug/net5.0/ref/SLab5.dll
 /Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/obj/Debug/net5.0/SLab5.pdb
 /Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/obj/Debug/net5.0/SLab5.genruntimeconfig.cache
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/System.Web.Http.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/System.Web.Http.WebHost.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Npgsql.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
