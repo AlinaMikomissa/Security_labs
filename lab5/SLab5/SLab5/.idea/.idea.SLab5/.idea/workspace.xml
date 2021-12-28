@@ -6,23 +6,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afacaef-7591-45f5-8d9d-304d77cdec64" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SLab5/DTO/SignInDTO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Entity/User.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/EntityConfigurations/UserEntityConfiguration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Infrastructure/SLabDBContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Services/IIdentityService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SLab5/Services/IdentityService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SLab5/DTO/SignUpDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1247" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1247" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1249" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1249" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1259" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1259" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1259_vm" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/1259_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/17426" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/17429" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2579" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2579" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2606" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2606" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2608" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2610" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2610" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2610_vm" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2610_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2658" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2658" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2659" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2659" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2662" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2662" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2663" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2663" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2664" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2664" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2665" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2665" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2666" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2666" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2667" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2667" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2673" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2673" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2674" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2674" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2678" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2678" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2679" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2679" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2703" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2704" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/2704" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/3455" beforeDir="false" afterPath="$PROJECT_DIR$/../Database/PG_14_202107181/17425/3455" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SLab5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Controllers/IdentityController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/DTO/SignInDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/DTO/SignInDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Entity/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Entity/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/EntityConfigurations/UserEntityConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/EntityConfigurations/UserEntityConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/SLab5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/SLab5.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Services/IIdentityService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Services/IIdentityService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SLab5/Services/IdentityService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/Services/IdentityService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/SLab5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/ref/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/bin/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -32,7 +54,6 @@
       <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/SLab5.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/ref/SLab5.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/Debug/net5.0/ref/SLab5.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/SLab5.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SLab5/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SLab5/obj/project.packagespec.json" afterDir="false" />
@@ -76,6 +97,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34975636" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -126,7 +149,9 @@
       <workItem from="1640603616810" duration="991000" />
       <workItem from="1640605033810" duration="403000" />
       <workItem from="1640607010612" duration="179000" />
-      <workItem from="1640607641291" duration="5340000" />
+      <workItem from="1640607641291" duration="5745000" />
+      <workItem from="1640660899124" duration="5522000" />
+      <workItem from="1640667399381" duration="320000" />
     </task>
     <servers />
   </component>
@@ -147,5 +172,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/SLab5/Services/IdentityService.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/SLab5/Services/IdentityService.cs" initialLine="23" containingFunctionPresentation="method 'SignIn'">
+            <startOffsets>
+              <option value="503" />
+            </startOffsets>
+            <endOffsets>
+              <option value="690" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
