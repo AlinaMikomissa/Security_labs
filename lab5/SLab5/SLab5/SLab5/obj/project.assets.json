@@ -6337,26 +6337,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alina\\.nuget\\packages\\": {}
+    "/Users/f.kavun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\UNI\\4_kurs\\Security\\lab5\\lab5\\lab5\\SLab5\\SLab5\\SLab5.csproj",
+      "projectUniqueName": "/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/SLab5/SLab5.csproj",
       "projectName": "SLab5",
-      "projectPath": "D:\\WORK\\UNI\\4_kurs\\Security\\lab5\\lab5\\lab5\\SLab5\\SLab5\\SLab5.csproj",
-      "packagesPath": "C:\\Users\\Alina\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\UNI\\4_kurs\\Security\\lab5\\lab5\\lab5\\SLab5\\SLab5\\obj\\",
+      "projectPath": "/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/SLab5/SLab5.csproj",
+      "packagesPath": "/Users/f.kavun/.nuget/packages/",
+      "outputPath": "/Users/f.kavun/My projects/SecurityT/Security_labs/lab5/SLab5/SLab5/SLab5/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/f.kavun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6414,7 +6412,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/f.kavun/.dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   },
